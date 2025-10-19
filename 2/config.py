@@ -1,2 +1,2 @@
-API_KEY = "1b4fc406ecd0a61eb3ce23d3e675175e"
+API_KEY = "Your_Api_Key"
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
